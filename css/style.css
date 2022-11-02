@@ -9,9 +9,8 @@
 
 body{
     background: url(/img/bg.jpg);
-    height: 50%;
-    background-position: center;
-    background-repeat: repeat;
+     height: 100vh;
+     width: 100%;
 }
 
 .center{
